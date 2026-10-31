@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="immunology"
+version="1.20.1-1.0.17-port1"
+displayName="Immunology"
+authors="Original mod by Krysztal112233; compatibility port"
+description='''Standalone Immunology port for Minecraft 1.20.1 Forge. Diet and Somnia are not required.'''
+
+[[dependencies.immunology]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.immunology]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

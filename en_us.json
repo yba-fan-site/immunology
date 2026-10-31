@@ -1,0 +1,5 @@
+{
+  "effect.immunology.deterioration": "Deterioration",
+  "effect.immunology.insanity": "Insanity",
+  "death.attack.disease": "%s died due to low immunity"
+}

@@ -1,0 +1,5 @@
+{
+  "effect.immunology.deterioration": "Ухудшение состояния",
+  "effect.immunology.insanity": "Галлюцинации",
+  "death.attack.disease": "%s умер из-за низкого иммунитета"
+}
